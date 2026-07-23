@@ -3,7 +3,7 @@ title: "Ma page de recommandations"
 order: 0
 in_menu: true
 ---
-### Racourcissement d'URL
+### Racourcissement d'URL et de QRCode
 Sur https://link.infini.fr/
 
 ### Création de QRCode :
