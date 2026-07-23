@@ -4,8 +4,7 @@ order: 0
 in_menu: true
 ---
 ### Racourcissement d'URL et de QRCode
-Sur https://link.infini.fr/
-
+Sur [infini](https://link.infini.fr/) ie Internet Finistère.
 ### Création de QRCode :
-Sur https://qrcode.ouvaton.coop/ 
-fonctionne avec les url raccourcies de link.infini.fr 
+Sur [ouvaton](https://qrcode.ouvaton.coop/)
+fonctionne avec les url raccourcies de [infini](https://link.infini.fr/). 
